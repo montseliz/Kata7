@@ -1,0 +1,20 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ºËóàûÿÿÿÿ8Øãí¸í0
+9
+java:S1643"Use a StringBuilder instead.(—¬¢8Øãí¸í0
+>
+java:S1643 "Use a StringBuilder instead.(×Æ”¼üÿÿÿÿ8Øãí¸í0
+>
+java:S16435"Use a StringBuilder instead.(Úœ´ıÿÿÿÿ8²€ó¸í0
+>
+java:S16437"Use a StringBuilder instead.(µøØÃüÿÿÿÿ8²€ó¸í0
+>
+java:S16439"Use a StringBuilder instead.(×Æ”¼üÿÿÿÿ8³€ó¸í0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ®˜‹8Ùãí¸í0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İõ¦8ùãí¸í0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ£¤Şıÿÿÿÿ8úãí¸í0
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8“äí¸í0
+:
+java:S21190"Save and re-use this "Random".(¼İÅf8á€ó¸í0
